@@ -1,19 +1,36 @@
 # portfolio_manual_qa
 
 eng--
+
+-----------------About Testing-----------------
+
+  During my testing of the Makeup.ua website, I focused on evaluating the user experience during the checkout process, particularly regarding the input of incorrect data. My main task was to identify any issues or vulnerabilities related to the acceptance of invalid data by users when purchasing goods. To achieve this goal, I used a systematic approach:
+
+1. I initiated the order checkout process by selecting various items available on the website.
+2. Upon reaching the checkout stage, I systematically entered various types of incorrect data, including words with numbers, into the "Last Name" and "First Name" fields.
+3. I made sure that all other mandatory fields were filled with correct data to maintain the context of the order checkout process.
+4. After submitting the form, I observed the website's response and documented any unexpected behaviors or errors encountered.
+5. I documented my findings, including screenshots if necessary, to provide clear evidence of the identified issues.
+
+  Upon completing this testing process, I classified the severity of each issue based on its impact on the user experience and potential security implications.
+
+  Through this testing process, my aim was to contribute to the improvement of the Makeup.ua website by identifying and reporting any issues related to the acceptance of invalid data during the order checkout process.
+
+
 -----------------About me-----------------
 
-My name is Julia, and I have a deep passion for literature, ranging from fantasy to psychology. In my free time, I immerse myself in various books, recently delving into "Atomic Habits" and Agatha Christie's "Death on the Nile". I thoroughly enjoy reading and analyzing, always on the lookout for intricate details within narratives.
+  My name is Julia, and I have a deep passion for literature, ranging from fantasy to psychology. In my free time, I immerse myself in various books, recently delving into "Atomic Habits" and Agatha Christie's "Death on the Nile". I thoroughly enjoy reading and analyzing, always on the lookout for intricate details within narratives.
   My name is Julia, and I have a deep passion for literature, ranging from fantasy to psychology. In my free time, I immerse myself in various books, recently delving into James Clear`s "Atomic Habits" and Agatha Christie's "Death on the Nile". I thoroughly enjoy reading and analyzing, always on the lookout for intricate details within narratives.
 
 These analytical skills naturally extend to the realm of software testing. Just as I dissect narratives, testing software requires a meticulous eye for detail and the ability to uncover subtle nuances within systems. My knack for scrutinizing details makes me well-suited for the role of a tester, where I can meticulously analyze software functionality and pinpoint potential issues.
   These analytical skills naturally extend to the realm of software testing. Just as I dissect narratives, testing software requires a meticulous eye for detail and the ability to uncover subtle nuances within systems. My knack for scrutinizing details makes me well-suited for the role of a tester, where I can meticulously analyze software functionality and pinpoint potential issues.
 
-Additionally, my love for music, especially indie pop, is evident in my admiration for The Lumineers' album "Cleopatra". This album tells the story of a woman's journey through life, with each song and music video containing hidden clues and connections that piece together the overarching narrative. This ability to interpret complex narratives directly correlates with the investigative nature of software testing, where uncovering hidden patterns and connections is crucial.
+  Additionally, my love for music, especially indie pop, is evident in my admiration for The Lumineers' album "Cleopatra". This album tells the story of a woman's journey through life, with each song and music video containing hidden clues and connections that piece together the overarching narrative. This ability to interpret complex narratives directly correlates with the investigative nature of software testing, where uncovering hidden patterns and connections is crucial.
   Additionally, my love for music, especially indie-pop, is evident in my admiration for The Lumineers' album "Cleopatra". This album tells the story of a woman's journey through life, with each song and music video containing hidden clues and connections that piece together the overarching narrative. This ability to interpret complex narratives directly correlates with the investigative nature of software testing, where uncovering hidden patterns and connections is crucial.
 
-In summary, my passion for literature, analytical prowess, and attention to detail make me an ideal candidate for software testing. I excel at dissecting narratives and uncovering underlying themes, skills that directly translate into the investigative and analytical aspects of testing software.
+  In summary, my passion for literature, analytical prowess, and attention to detail make me an ideal candidate for software testing. I excel at dissecting narratives and uncovering underlying themes, skills that directly translate into the investigative and analytical aspects of testing software.
   In summary, my analytical prowess and attention to detail make me an ideal candidate for software testing.
+
 
 
 
@@ -21,7 +38,7 @@ ua--
 
 -----------------Про тестування-----------------
 
-Під час мого тестування веб-сайту Makeup.ua я сконцентрувався на оцінці користувацького досвіду під час процесу оформлення замовлення, зокрема стосовно введення неправильних даних. Моєю основною задачею було виявлення будь-яких проблем або вразливостей, пов'язаних з прийняттям недійсних даних користувачами під час покупки товарів. Для досягнення цієї мети я використовував системний підхід:
+  Під час мого тестування веб-сайту Makeup.ua я сконцентрувався на оцінці користувацького досвіду під час процесу оформлення замовлення, зокрема стосовно введення неправильних даних. Моєю основною задачею було виявлення будь-яких проблем або вразливостей, пов'язаних з прийняттям недійсних даних користувачами під час покупки товарів. Для досягнення цієї мети я використовував системний підхід:
   Під час мого тестування веб-сайту Makeup.ua я сконцентрувалася на оцінці користувацького досвіду під час процесу оформлення замовлення, зокрема стосовно введення неправильних даних. Моєю основною задачею було виявлення будь-яких проблем або вразливостей, пов'язаних з прийняттям недійсних даних користувачами під час покупки товарів. Для досягнення цієї мети я використовувала системний підхід:
 
 Я ініціював процес оформлення замовлення, обираючи різні товари, доступні на веб-сайті.
@@ -52,4 +69,4 @@ ua--
   Крім того, моє захоплення музикою, особливо indie-pop, виявляється в моїй прихильності до альбому "Cleopatra" від The Lumineers. Цей альбом розповідає історію жінки, яка подорожує життям, причому кожна пісня та музичний відеокліп містить приховані загадки та зв'язки, які складають загальну сюжетну лінію. Ця здатність інтерпретувати складні оповіді безпосередньо відображає пошуковий характер тестування програмного забезпечення, де виявлення прихованих патернів та зв'язків є критично важливим.
 
 Загалом, моє захоплення літературою, аналітичні здібності та увага до деталей роблять мене ідеальним кандидатом для тестування програмного забезпечення. Я відмінно розкриваю сюжети та виявляю основні теми, навички, які безпосередньо відображаються у розслідувальному та аналітичному аспектах тестування програмного забезпечення.
-  Загалом, мої аналітичні здібності та увага до деталей роблять мене ідеальним кандидатом для тестування програмного забезпечення. 
+Загалом, мої аналітичні здібності та увага до деталей роблять мене ідеальним кандидатом для тестування програмного забезпечення. 
